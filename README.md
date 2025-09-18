@@ -128,7 +128,7 @@ To deploy and run this project, follow these steps:
   * Install **SQL Server Management Studio (SSMS)** -\> [Download Link](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
   * Clone this repository:
     ```bash
-    git clone https://github.com/apurva313/sql-data-warehouse-project.git
+    git clone https://github.com/apurva313/sql-data-warehouse-analytics-project.git
     ```
 
 #### **Running the Scripts:**
