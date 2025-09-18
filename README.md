@@ -4,9 +4,9 @@ Welcome to the **Data Warehouse and Analytics Project** repository\! 🚀
 This project demonstrates a complete data warehousing solution, from raw data ingestion to generating actionable business insights. It is designed to showcase industry best practices in data engineering, data modeling, and analytics.
 
 This repository provides a step-by-step approach to building a scalable and efficient data warehouse, covering:
-✅ **ETL Pipelines** (Extract, Transform, Load)
-✅ **Data Modeling** (Star Schema)
-✅ **SQL-based Reporting & Analytics**
+    * ✅ **ETL Pipelines** (Extract, Transform, Load)
+    * ✅ **Data Modeling** (Star Schema)
+    * ✅ **SQL-based Reporting & Analytics**
 
 -----
 
@@ -113,7 +113,116 @@ The goal is to develop SQL-based analytics to deliver detailed insights into key
 -----
 
 ## 📂 Repository Structure
+Here is the tree structure you provided:
 
+```
+analytical-report/
+    ├── 01_gold-layer-dataset/
+    │   ├── gold.dim_customers.csv
+    │   ├── gold.dim_products.csv
+    │   └── gold.fact_sales.csv
+    ├── 02_exploratory-data-analysis/
+    │   ├── 00_init_database.sql
+    │   ├── 01_database_exploration.sql
+    │   ├── 02_dimensions_exploration.sql
+    │   ├── 03_date_range_exploration.sql
+    │   ├── 04_measures_exploration.sql
+    │   ├── 05_magnitude_analysis.sql
+    │   ├── 06_ranking_analysis.sql
+    │   └── README.md
+    ├── 03_advanced-analytics/
+    │   ├── 07_change_over_time_analysis.sql
+    │   ├── 08_cumulative_analysis.sql
+    │   ├── 09_performance_analysis.sql
+    │   ├── 10_data_segmentation.sql
+    │   ├── 11_part_to_whole_analysis.sql
+    │   └── README.md
+    └── 04_report-generation/
+        ├── 12_report_customers.sql
+        ├── 13_report_products.sql
+        ├── 14_report_analysis_queries.sql
+        └── README.md
+datasets/
+    ├── source_crm/
+    │   ├── cust_info.csv
+    │   ├── prd_info.csv
+    │   └── sales_details.csv
+    └── source_erp/
+        ├── CUST_AZ12.csv
+        ├── LOC_A101.csv
+        └── PX_CAT_G1V2.csv
+docs/
+    ├── data-architecture/
+    │   ├── data_architecture.png
+    │   ├── data_architecture.svg
+    │   └── README.md
+    ├── data-flow/
+    │   ├── data_flow.png
+    │   ├── data_flow.svg
+    │   └── README.md
+    ├── data-integration/
+    │   ├── data_integration.png
+    │   ├── data_integration.svg
+    │   └── README.md
+    ├── data-model/
+    │   ├── data_model.png
+    │   ├── data_model.svg
+    │   └── README.md
+    ├── etl/
+    │   ├── extraction/
+    │   │   ├── exactration.png
+    │   │   ├── exactration.svg
+    │   │   └── README.md
+    │   ├── load/
+    │   │   ├── load.png
+    │   │   ├── load.svg
+    │   │   └── README.md
+    │   ├── transformation/
+    │   │   ├── README.md
+    │   │   ├── transformation.png
+    │   │   └── transformation.svg
+    │   ├── etl_animation_1.svg
+    │   ├── etl_animation.svg
+    │   ├── etl_pic_1.png
+    │   ├── etl_pic.png
+    │   └── README.md
+    ├── warehousing-data-catalog/
+    │   └── README.md
+    ├── warehousing-naming-convention/
+    │   └── README.md
+    └── warehousing-tables-views-details/
+        ├── bronze_layer_tables_views_details.csv
+        ├── bronze_layer_tables_views_details.xlsx
+        ├── gold_layer_tables_views_details.csv
+        ├── gold_layer_tables_views_details.xlsx
+        ├── silver_layer_tables_views_details.csv
+        └── silver_layer_tables_views_details.xlsx
+scripts/
+    ├── bronze/
+    │   ├── ddl_bronze.sql
+    │   ├── proc_load_bronze.sql
+    │   └── README.md
+    ├── gold/
+    │   ├── structured-csv-data/
+    │   │   ├── dim_customers.csv
+    │   │   ├── dim_products.csv
+    │   │   └── fact_sales.csv
+    │   ├── ddl_gold.sql
+    │   └── README.md
+    ├── silver/
+    │   ├── ddl_silver.sql
+    │   ├── proc_load_silver.sql
+    │   └── README.md
+    ├── init_database.sql
+    └── placeholder
+tests/
+    ├── placeholder
+    ├── quality_checks_bronze.sql
+    ├── quality_checks_gold.sql
+    └── quality_checks_silver.sql
+LICENSE
+README.md
+```
 
 
 -----
