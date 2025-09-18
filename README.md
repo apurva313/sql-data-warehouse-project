@@ -11,19 +11,19 @@ This repository provides a step-by-step approach to building a scalable and effi
 
 ## Table of Contents
 
-1.  [Data Architecture](https://www.google.com/search?q=%23%EF%B8%8F-data-architecture)
-2.  [ETL Process](https://www.google.com/search?q=%23%EF%B8%8F-etl-process)
-3.  [Data Flow & Lineage](https://www.google.com/search?q=%23%EF%B8%8F-data-flow--lineage)
-4.  [Data Integration & Relationships](https://www.google.com/search?q=%23%EF%B8%8F-data-integration--relationships)
-5.  [Data Model: Star Schema](https://www.google.com/search?q=%23-data-model-star-schema)
-6.  [Project Scope & Objectives](https://www.google.com/search?q=%23-project-scope--objectives)
-      - [Data Engineering: Building the Warehouse](https://www.google.com/search?q=%23data-engineering-building-the-warehouse)
-      - [BI: Analytics & Reporting](https://www.google.com/search?q=%23bi-analytics--reporting)
-7.  [Technology Stack & Tools](https://www.google.com/search?q=%23%EF%B8%8F-technology-stack--tools)
-8.  [Repository Structure](https://www.google.com/search?q=%23-repository-structure)
-9.  [Setup & Installation](https://www.google.com/search?q=%23-setup--installation)
-10. [About Me](https://www.google.com/search?q=%23-about-me)
-11. [License](https://www.google.com/search?q=%23%EF%B8%8F-license)
+1.  [Data Architecture](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#%EF%B8%8F-data-architecture)
+2.  [ETL Process](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#%EF%B8%8F-etl-process)
+3.  [Data Flow & Lineage](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#%EF%B8%8F-data-flow--lineage)
+4.  [Data Integration & Relationships](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#-data-integration--relationships)
+5.  [Data Model: Star Schema](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#-data-model-star-schema)
+6.  [Project Scope & Objectives](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#-project-scope--objectives)
+      - [Data Engineering: Building the Warehouse](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#data-engineering-building-the-warehouse)
+      - [BI: Analytics & Reporting](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#bi-analytics--reporting)
+7.  [Technology Stack & Tools](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#%EF%B8%8F-technology-stack--tools)
+8.  [Repository Structure](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#-repository-structure)
+9.  [Setup & Installation](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#-setup--installation)
+10. [About Me](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#-about-me)
+11. [License](https://github.com/apurva313/sql-data-warehouse-project?tab=readme-ov-file#%EF%B8%8F-license)
 
 -----
     
