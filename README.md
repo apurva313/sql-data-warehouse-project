@@ -1,15 +1,32 @@
 # End-to-End SQL Data Warehouse & Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository\! 🚀
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
+
 This project demonstrates a complete data warehousing solution, from raw data ingestion to generating actionable business insights. It is designed to showcase industry best practices in data engineering, data modeling, and analytics.
 
 This repository provides a step-by-step approach to building a scalable and efficient data warehouse, covering:
-    * ✅ **ETL Pipelines** (Extract, Transform, Load)
-    * ✅ **Data Modeling** (Star Schema)
-    * ✅ **SQL-based Reporting & Analytics**
+* **✅ ETL Pipelines** (Extract, Transform, Load)
+* **✅ Data Modeling** (Star Schema)
+* **✅ SQL-based Reporting & Analytics**
+
+## Table of Contents
+
+1.  [Data Architecture](https://www.google.com/search?q=%23%EF%B8%8F-data-architecture)
+2.  [ETL Process](https://www.google.com/search?q=%23%EF%B8%8F-etl-process)
+3.  [Data Flow & Lineage](https://www.google.com/search?q=%23%EF%B8%8F-data-flow--lineage)
+4.  [Data Integration & Relationships](https://www.google.com/search?q=%23%EF%B8%8F-data-integration--relationships)
+5.  [Data Model: Star Schema](https://www.google.com/search?q=%23-data-model-star-schema)
+6.  [Project Scope & Objectives](https://www.google.com/search?q=%23-project-scope--objectives)
+      - [Data Engineering: Building the Warehouse](https://www.google.com/search?q=%23data-engineering-building-the-warehouse)
+      - [BI: Analytics & Reporting](https://www.google.com/search?q=%23bi-analytics--reporting)
+7.  [Technology Stack & Tools](https://www.google.com/search?q=%23%EF%B8%8F-technology-stack--tools)
+8.  [Repository Structure](https://www.google.com/search?q=%23-repository-structure)
+9.  [Setup & Installation](https://www.google.com/search?q=%23-setup--installation)
+10. [About Me](https://www.google.com/search?q=%23-about-me)
+11. [License](https://www.google.com/search?q=%23%EF%B8%8F-license)
 
 -----
-
+    
 ## 🏗️ Data Architecture
 
 The project follows the industry-standard **Medallion Architecture**, logically organizing data into three distinct layers.
@@ -113,7 +130,7 @@ The goal is to develop SQL-based analytics to deliver detailed insights into key
 -----
 
 ## 📂 Repository Structure
-Here is the tree structure you provided:
+The project repository is organized into the following key directories, each dedicated to a specific stage of the data warehouse lifecycle, from raw data ingestion to final analysis.
 
 ```
 analytical-report/
@@ -253,7 +270,10 @@ To deploy and run this project, follow these steps:
 
 -----
 
-## ⭐ About Me
+## 🚀 About Me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/apurva313)
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apurva313)
 
 
 
